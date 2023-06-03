@@ -1,0 +1,38 @@
+.cloths-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.home-page-content-container {
+  padding-left: 37px;
+  padding-right: 37px;
+  padding-bottom: 30px;
+}
+.cloths-heading {
+  font-size: 30px;
+  font-family: 'Roboto';
+  color: #1e293b;
+}
+.cloths-description {
+  color: #64748b;
+  font-size: 14px;
+  font-family: 'Roboto';
+}
+.shop-btn {
+  background-color: #0967d2;
+  color: #e6f6ff;
+  border: none;
+  font-size: 12px;
+  height: 30px;
+  width: 100px;
+  border-radius: 4px;
+}
+.home-page-content-container {
+  width: 60%;
+}
+.cloths-image-container {
+  width: 80%;
+}
+.cloths-image {
+  width: 50%;
+}
